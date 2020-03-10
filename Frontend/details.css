@@ -1,0 +1,30 @@
+.addbut{
+   color:white;
+   background-color: #2a5c93;
+   font-family: "Arial", san-serif;
+   border-radius: 8px;
+   position: absolute;
+   right:40px;
+   top:100px;
+}
+
+.h1{
+	font-size:200%;
+	margin:20px;
+	color:white;
+}
+
+#table{
+	margin:15px;
+	color:white;
+}
+
+.aligncenter {
+    text-align: center;
+	margin-top:20px;
+}
+
+#editlink{
+	color: white;
+}
+

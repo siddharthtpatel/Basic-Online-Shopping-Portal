@@ -1,0 +1,28 @@
+.form{
+	font-size:150%;
+	color:white;
+	width:30%;
+	right:300px;
+	margin-top:200px;
+}
+
+.aligncenter {
+    text-align: center;
+	margin-top:20px;
+	color:black;
+}
+.jumbotron{
+	width:40%;
+	margin-top:100px;
+	margin-left:450px;
+	margin-right:450px;
+}
+.but {
+   color:black;
+   background-color: #708090;
+   font-family: "Arial", san-serif;
+   border-radius: 8px;
+   position: absolute;
+   margin: 20px;
+   left: 550px;
+}
