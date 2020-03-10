@@ -3,7 +3,7 @@ A Basic Online Shopping Portal developed using HTML, PHP, CSS and JavaScript for
 
 Basic Online Shopping Portal
 
-The portals allows the user to add, edit and view student, faculty, department, courses and course enrollment details. It has a basic user interface for user to understand easily and and use the portal. All the clicks which lead to a different page are in blue colour and underlined.
+The portals allows you to lgin as a costumer and as an employee giving you option to buy and see all details respectively. It has a basic user interface for user to understand easily and use the portal.
 
 Database - MySQL Frontend - HTML, PHP, JavaScript & CSS
 
@@ -13,6 +13,6 @@ Download all the php and database files and xampp (or any other local server sof
 
 link: localhost/thenoob.com/page1.php.php login : id - 12345 password - 0000
 
-Link to access the data base: http://localhost/phpmyadmin/db_structure.php?server=1&db=workshop
+Link to access the data base: http://localhost/phpmyadmin/db_structure.php?server=1&db=thenoob.com
 
 Server: severname="localhost" username="root" password=""
