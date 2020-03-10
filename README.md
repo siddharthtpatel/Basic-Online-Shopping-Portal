@@ -1,3 +1,4 @@
+# Basic Online Shopping Portal
 A Basic Online Shopping Portal developed using HTML, PHP, CSS and JavaScript for the frontend and PHP and MySQL for the backend
 
 Basic Online Shopping Portal
