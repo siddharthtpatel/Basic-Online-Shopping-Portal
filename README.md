@@ -15,4 +15,3 @@ link: localhost/thenoob.com/page1.php.php login : id - 12345 password - 0000
 Link to access the data base: http://localhost/phpmyadmin/db_structure.php?server=1&db=workshop
 
 Server: severname="localhost" username="root" password=""
-
